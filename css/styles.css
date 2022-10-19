@@ -91,3 +91,11 @@ button.add {
 .count {
   padding: 0 5px;
 }
+
+.form-control {
+  width: 95%;
+  height: 5vh;
+  border-radius: 8px;
+  outline: none;
+  border: 2.5px solid black;
+}
